@@ -1,0 +1,17 @@
+.clock{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin-left: 350px;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+    color: antiquewhite;
+}
+body{
+    background-color: blueviolet;
+}
